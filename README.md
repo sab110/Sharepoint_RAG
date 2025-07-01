@@ -1,5 +1,4 @@
-# 📄 SharePoint Retrieval-Augmented Generation (RAG) 
-      System
+# 📄 SharePoint Retrieval-Augmented Generation (RAG) System
 
 This project provides a **secure, real-time question-answering system** over SharePoint documents. It uses Retrieval-Augmented Generation with a vector database (ChromaDB), live webhook updates, and a Streamlit interface deployed on AWS EC2.
 
